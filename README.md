@@ -1,0 +1,1 @@
+# 1121031010_AdelaNurcahyaniZahra_Stack
