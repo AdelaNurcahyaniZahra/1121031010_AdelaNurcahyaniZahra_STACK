@@ -2,7 +2,7 @@
 #define MAX 5
 //Adela Nurcahyani Zahra
 //1121031010
-//MAIN : PROGRAM STACK MENGGUNAKAN BAHASA PEMROGRAMAN C++S
+//MAIN : PROGRAM STACK MENGGUNAKAN BAHASA PEMROGRAMAN C++
 using namespace std;
 //Deklarasi struct tumpukan
 struct Stack {
